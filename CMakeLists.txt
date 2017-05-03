@@ -31,9 +31,7 @@ catkin_package(
 )
 
 ## mark examples for installation
-install(DIRECTORY examples
+install(DIRECTORY examples scripts
   DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}
   USE_SOURCE_PERMISSIONS
-  FILES_MATCHING PATTERN "*.py"
-  PATTERN ".svn" EXCLUDE
 )
