@@ -6,6 +6,7 @@
   </description>
   <author>Jonathan Bohren</author>
   <maintainer email="rhaschke@techfak.uni-bielefeld.de">Robert Haschke</maintainer>
+  <maintainer email="ros-orphaned-packages@googlegroups.com">ROS Orphaned Package Maintainers</maintainer>
   <license>BSD</license>
 
   <url>http://ros.org/wiki/smach_tutorials</url>
